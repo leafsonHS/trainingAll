@@ -1,0 +1,4 @@
+kafka安装包下载地址
+http://kafka.apache.org/downloads
+JDK下载  最新的KAFKA需要最大jdk8
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
