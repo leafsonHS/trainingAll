@@ -6,7 +6,11 @@ http://developer.51cto.com/art/201501/464491.htm
 
 http://www.cnblogs.com/cyfonly/p/5954614.html
 
+
+http://www.infoq.com/cn/articles/kafka-analysis-part-1
 ZooKeeper
 http://www.oschina.net/question/928033_84720
+
+http://blog.csdn.net/poechant/article/details/6650249 zookeep≤Œ ˝Ω‚ Õ
 
 

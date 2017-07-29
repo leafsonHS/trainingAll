@@ -1,0 +1,7 @@
+
+在Kafka上对一个Topic增加replicas
+./kafka-reassign-partitions.sh -zookeeper 192.168.160.64:2181,192.168.100.242:2181 -reassignment-json-file partitions-to-move.json -execute
+
+
+重新分配leader变化
+bin/kafka-preferred-replica-election.sh --zookeeper  192.168.160.64:2181,192.168.100.242:2181  --path-to-json-file topicPartitionList.json  

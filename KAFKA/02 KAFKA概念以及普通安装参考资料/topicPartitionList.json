@@ -1,0 +1,13 @@
+{
+ "partitions":
+  [
+    {"topic": "myreptopic8", "partition": 0},
+    {"topic": "myreptopic8", "partition": 1},
+    {"topic": "myreptopic8", "partition": 3},
+    {"topic": "myreptopic8", "partition": 4},
+    {"topic": "myreptopic8", "partition": 5},
+    {"topic": "myreptopic8", "partition": 2}
+
+
+  ]
+}
